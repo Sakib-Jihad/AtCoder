@@ -1,2 +1,2 @@
-# AtCoder
-# Vjudge
+
+# Vjudge contest solutions 
